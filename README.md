@@ -1,7 +1,7 @@
 Hello everyone, I'm excited to share our project focuses on advancing next word prediction systems using neural language models and NLP techniques to improve context awareness in text completion.
 
-
-Slide 1 This project aimed at developing an advanced system for predicting the next word in text-based applications using cutting-edge neural network architectures and natural language processing (NLP) techniques
+In An Advanced Next Word Prediction System Using Neural (2) (1).pptx
+Slide 1 : This project aimed at developing an advanced system for predicting the next word in text-based applications using cutting-edge neural network architectures and natural language processing (NLP) techniques
 
 Slide 2: We utilized complex neural network structures like LSTM (Long Short-Term Memory) and Transformers to enhance the accuracy of predicting the next word someone might type. 
 Incorporate attention mechanisms and word embeddings to better understand the context of the text, making predictions more relevant.
